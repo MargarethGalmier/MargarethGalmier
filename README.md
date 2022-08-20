@@ -7,8 +7,6 @@ Hi, I'm Margareth. Currently I focus on completing the Reprograma's (ON-19) Back
 - 🔭 I’m currently working on creating my **Fullstack Developer Portfolio**
 - 🌱 I’m currently learning **about how to improve my tech skills**
 - 👯 I’m looking to collaborate on **Javascript Projects**
-- ⚡ Fun fact **I ❤️ writing and I'm a lover of literature**
-
 
   💌 **margareth.galmier@gmail.com**
   
