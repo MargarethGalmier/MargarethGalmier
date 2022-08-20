@@ -4,10 +4,13 @@
 <p align="left">
 Hi, I'm Margareth. Currently I focus on completing the Reprograma's (ON-19) Back-End course. My focus is fullstack, and my future projects involve developing games with a narrative focus and literary projects, as well as good old website development.
  
-
+- 🔭 I’m currently working on creating my Fullstack Developer Portfolio
+- 🌱 I’m currently learning **about how to improve my tech skills**
+- 👯 I’m looking to collaborate on **Javascript Projects**
+- ⚡ Fun fact **I ❤️ writing and I'm a lover of literature**
 
 <p align="left">
-  💌 margareth.galmier@gmail.com
+  **💌 margareth.galmier@gmail.com**
 </p>
   
   ##### Technologies and Tools
