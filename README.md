@@ -1,8 +1,8 @@
 <p align="center">
-:kissing_cat: Sejam bem vindes ao meu perfil no Github! :kissing_cat:
+:kissing_cat: Welcome to my Github profile! :kissing_cat:
 
 <p align="left">
-Olá, sou a Margareth. Na atualidade me foco em completar o curso de Back-End (turma ON-19) da Reprograma. Meu foco é fullstack, e meus projetos futuros envolvem desenvolvimento de jogos com enfoque narrativo e projetos literários, assim como o bom e velho desenvolvimento de sites.
+Hi, I'm Margareth. Currently I focus on completing the Reprograma's (ON-19) Back-End course. My focus is fullstack, and my future projects involve developing games with a narrative focus and literary projects, as well as good old website development.
  
 
 
@@ -10,7 +10,7 @@ Olá, sou a Margareth. Na atualidade me foco em completar o curso de Back-End (t
   💌 margareth.galmier@gmail.com
 </p>
   
-  ##### Tecnologias e Ferramentas
+  ##### Technologies and Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> 
