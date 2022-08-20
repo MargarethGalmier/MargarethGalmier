@@ -10,7 +10,7 @@ Hi, I'm Margareth. Currently I focus on completing the Reprograma's (ON-19) Back
 - ⚡ Fun fact **I ❤️ writing and I'm a lover of literature**
 
 <p align="left">
-  **💌 margareth.galmier@gmail.com**
+  💌 **margareth.galmier@gmail.com**
 </p>
   
   ##### Technologies and Tools
